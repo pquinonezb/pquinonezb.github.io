@@ -13,15 +13,15 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://pquinonezb.github.io/
 baseurl: /pquinonezb.github.io/
-title: Pedro Quiñonez
-author: Pedro Quiñonez
+title: Pedro Quinonez
+author: Pedro Quinonez
 description: Página personal y CV
 avatar: profile.png
 email: pedro.quinonez@gmail.com
-github: pquinonezb/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+github: pquinonezb # username
+twitter: @quinonezbp
+linkedin: https://www.linkedin.com/in/pquinonez/
+#stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 #disqus: username
 #google_analytics: UA-69391421-1
