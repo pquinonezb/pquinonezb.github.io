@@ -13,9 +13,9 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://pquinonezb.github.io/
 baseurl: /pquinonezb.github.io/
-title: Pedro Quinonez
-author: Pedro Quinonez
-description: Página personal y CV
+title: "Pedro Quinonez"
+author: "Pedro Quinonez"
+description: "Pagina personal y CV"
 avatar: profile.png
 email: pedro.quinonez@gmail.com
 github: pquinonezb # username
