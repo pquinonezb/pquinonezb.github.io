@@ -12,7 +12,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://pquinonezb.github.io/
-baseurl: /pquinonezb.github.io/
+baseurl: /
 title: www.pedroquinonez.com
 author: Pedro Quinonez
 description: Página personal, blog y CV
