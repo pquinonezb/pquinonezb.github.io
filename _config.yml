@@ -12,17 +12,21 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://pquinonezb.github.io/
-baseurl: /pquinonezb.github.io/
-title: Pedro Quiñonez
-author: Pedro Quiñonez
-description: Página personal y CV
-avatar: profile.png
+baseurl: /sustain/
+title: www.pedroquinonez.com
+author: Pedro Quinonez
+description: Página personal, blog y CV
+#avatar: profile.png
 email: pedro.quinonez@gmail.com
-github: pquinonezb/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+github: pquinonezb # username
+twitter: quinonezbp
+linkedin: pquinonez
+#stackoverflow: username   #e.g: users/2735833/proton1h1
+cncf: cncf
 #Comment out if you don't want disqus
 #disqus: username
 #google_analytics: UA-69391421-1
 
+
+# needed for travis-ci build
+#exclude: [vendor]
