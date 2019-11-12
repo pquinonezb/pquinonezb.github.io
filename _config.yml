@@ -11,6 +11,7 @@ safe: true
 
 
 # edit here to achieve your personal greatness
+giturl: https://github.com/pquinonezb/
 url: http://pquinonezb.github.io/
 baseurl: ../
 title: www.pedroquinonez.com
